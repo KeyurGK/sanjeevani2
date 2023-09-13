@@ -155,8 +155,9 @@ header .fa-bars {
   display: none;
 }
 .home {
-  margin-top: 5%;
+  margin-top: 1%;
 }
+
 .home .content h1 {
   font-size: 5rem;
   color: var(--black);
